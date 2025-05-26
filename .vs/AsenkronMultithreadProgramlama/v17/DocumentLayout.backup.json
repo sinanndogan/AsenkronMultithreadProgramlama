@@ -1,0 +1,63 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MONSTER\\source\\GencayY\u0131ld\u0131z\\repos\\AsenkronMultithreadProgramlama\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DCF39ABB-8CF9-4EE7-A095-6C5444F2B68B}|Ders2\\Ders2.csproj|c:\\users\\monster\\source\\gencayy\u0131ld\u0131z\\repos\\asenkronmultithreadprogramlama\\ders2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCF39ABB-8CF9-4EE7-A095-6C5444F2B68B}|Ders2\\Ders2.csproj|solutionrelative:ders2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 146,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\source\\GencayY\u0131ld\u0131z\\repos\\AsenkronMultithreadProgramlama\\Ders2\\Program.cs",
+              "RelativeDocumentMoniker": "Ders2\\Program.cs",
+              "ToolTip": "C:\\Users\\MONSTER\\source\\GencayY\u0131ld\u0131z\\repos\\AsenkronMultithreadProgramlama\\Ders2\\Program.cs",
+              "RelativeToolTip": "Ders2\\Program.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAAAHUAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T17:44:33.85Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 254,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
