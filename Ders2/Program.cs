@@ -121,3 +121,84 @@
 //}
 //Console.WriteLine("Main thread görevini tamamladı");
 #endregion
+
+#region Race Conditional durum müdahaleleri
+#region Locking   
+
+// iki thredden biri işlemi tamamlıyor daha sonra diğeri işlemini yapıyor
+//burda sistem isterse 2. thread isterse 1.thredden başlıyor
+//object locking = new();
+
+//int sayi = 1;
+
+//Thread thread1 = new(() =>
+//{
+//    lock (locking)
+//    {
+//        while (sayi < 10)
+//        {
+//            sayi++;
+//            Console.WriteLine($"Thread 1 : {sayi}");
+//        }
+//    }
+
+//});
+
+
+//Thread thread2 = new(() =>
+//{
+//    lock (locking)
+//    {
+//        while (sayi > 0)
+//        {
+//            sayi--;
+//            Console.WriteLine($"Thread 2 : {sayi}");
+//        }
+//    }
+
+//});
+//thread1.Start();
+//thread2.Start();
+
+#endregion
+
+#region join Metodu
+//Bir thread'in başka bir threadin işleminin bitmesini beklemesi için kullanılan metottur
+
+//Thread thread1 = new(() =>
+//{
+//    for (int i = 0; i < 10; i++)
+//    {
+//        Console.WriteLine($"Thread1-{i}");
+//    }
+//});
+
+//Thread thread2 = new(() =>
+//{
+//    for (int i = 0; i < 10; i++)
+//    {
+//        Console.WriteLine($"Thread2-{i}");
+//    }
+//});
+//thread1.Start();
+//thread1.Join();
+//thread2.Start();
+#endregion
+#endregion
+
+#region Thread İptal Etme
+//bool stop = false;
+//Thread thread = new(() =>
+//{
+//	while (true)
+//	{
+//		if (stop) break;
+//        Console.WriteLine("ada");
+//	}
+//    Console.WriteLine("Thread işlemi sona erdi");
+//});
+//thread.Start();
+//Thread.Sleep(5000);
+//stop = true;
+#endregion
+

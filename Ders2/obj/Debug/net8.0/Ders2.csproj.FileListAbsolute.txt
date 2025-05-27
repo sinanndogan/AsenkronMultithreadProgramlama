@@ -12,3 +12,4 @@ C:\Users\MONSTER\source\GencayYıldız\repos\AsenkronMultithreadProgramlama\Ders
 C:\Users\MONSTER\source\GencayYıldız\repos\AsenkronMultithreadProgramlama\Ders2\obj\Debug\net8.0\Ders2.pdb
 C:\Users\MONSTER\source\GencayYıldız\repos\AsenkronMultithreadProgramlama\Ders2\obj\Debug\net8.0\Ders2.genruntimeconfig.cache
 C:\Users\MONSTER\source\GencayYıldız\repos\AsenkronMultithreadProgramlama\Ders2\obj\Debug\net8.0\ref\Ders2.dll
+C:\Users\MONSTER\source\GencayYıldız\repos\AsenkronMultithreadProgramlama\Ders2\obj\Debug\net8.0\Ders2.sourcelink.json
